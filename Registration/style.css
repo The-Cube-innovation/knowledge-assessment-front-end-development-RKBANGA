@@ -1,0 +1,47 @@
+body {
+    background-image: url('https://img.freepik.com/free-vector/blue-fluid-shape-frame-design-resource_53876-114480.jpg?size=626&ext=jpg&ga=GA1.1.1411668671.1729082355&semt=ais_hybrid');
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+}
+
+
+#Register {
+position: absolute; 
+top: 20%;
+left: 40%;
+    
+  }
+
+#name{
+margin: 10px;
+width: 260px;
+
+}
+
+#email{
+    margin: 10px;
+    width: 260px;
+
+}
+
+#phone{
+    margin: 10px;
+    width: 200px;
+}
+
+#button{
+    margin: 40px;
+    position: relative;
+    left: 12%;
+    width: 200px;
+    height: 50px;
+    border-radius: 30px;
+    border-color: beige;
+}
